@@ -7,3 +7,4 @@ extern Plugin *pluginInstance;
 extern Model *modelCompa;
 extern Model *modelPanel;
 extern Model *modelRelo;
+extern Model *modelSecu;
